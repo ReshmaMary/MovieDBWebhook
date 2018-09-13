@@ -1,6 +1,6 @@
 {
     "name": "movie-db-webhook-reshma",
-    "description": "An API that exposes news in the form of a response that is accepted by Chatfuel and is rendered as a Gallery on Facebook Messenger",
+    "description": "An API for test",
     "repository": "https://github.com/ReshmaMary/MovieDBWebhook.git",
     "keywords": [
         "Movie",

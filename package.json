@@ -5,6 +5,7 @@
   "main": "index.js",
   "repository": "https://github.com/ReshmaMary/MovieDBWebhook.git",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
